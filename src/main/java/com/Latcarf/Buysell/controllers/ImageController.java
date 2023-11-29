@@ -1,7 +1,7 @@
 package com.Latcarf.Buysell.controllers;
 
         import com.Latcarf.Buysell.models.Image;
-        import com.Latcarf.Buysell.repositories.ImageRepository;
+        import com.Latcarf.Buysell.repository.ImageRepository;
         import lombok.RequiredArgsConstructor;
         import org.springframework.core.io.InputStreamResource;
         import org.springframework.http.MediaType;

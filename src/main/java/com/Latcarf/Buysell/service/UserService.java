@@ -2,7 +2,7 @@ package com.Latcarf.Buysell.service;
 
 import com.Latcarf.Buysell.models.User;
 import com.Latcarf.Buysell.models.enums.Role;
-import com.Latcarf.Buysell.repositories.UserRepository;
+import com.Latcarf.Buysell.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.crypto.password.PasswordEncoder;

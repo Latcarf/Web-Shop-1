@@ -1,4 +1,4 @@
-package com.Latcarf.Buysell.repositories;
+package com.Latcarf.Buysell.repository;
 
 import com.Latcarf.Buysell.models.Product;
 import org.springframework.data.jpa.repository.JpaRepository;

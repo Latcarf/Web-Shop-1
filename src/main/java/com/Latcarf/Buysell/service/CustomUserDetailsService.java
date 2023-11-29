@@ -1,6 +1,6 @@
 package com.Latcarf.Buysell.service;
 
-        import com.Latcarf.Buysell.repositories.UserRepository;
+        import com.Latcarf.Buysell.repository.UserRepository;
         import lombok.RequiredArgsConstructor;
         import org.springframework.security.core.userdetails.UserDetails;
         import org.springframework.security.core.userdetails.UserDetailsService;
