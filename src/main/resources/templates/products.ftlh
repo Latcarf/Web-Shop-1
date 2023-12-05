@@ -23,7 +23,7 @@
 <h4>Товари з усієї України</h4>
 
 <form action="/" method="get">
-    Поиск по названию объявления: <input type="text" name="title">
+    Пошук за назвою товару: <input type="text" name="title">
     <input type="submit" value="Пошук"/>
 </form>
 
